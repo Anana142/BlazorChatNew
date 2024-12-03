@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\services\\service\\redisnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\services\\service\\redisnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\services\\interface\\iredisnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\services\\interface\\iredisnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|c:\\users\\admin\\documents\\nastenka\\nastenka\\nastenka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6642F028-9BDD-4DA9-8D9B-319D4823DAEA}|Nastenka\\Nastenka.csproj|solutionrelative:nastenka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Nastenka\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\App.razor",
+              "RelativeToolTip": "Nastenka\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:26:12.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Nastenka\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\_Imports.razor",
+              "RelativeToolTip": "Nastenka\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T23:53:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Nastenka\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Routes.razor",
+              "RelativeToolTip": "Nastenka\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T23:53:00.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Services\\Service\\RedisNotificationService.cs",
+              "RelativeDocumentMoniker": "Nastenka\\Services\\Service\\RedisNotificationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Services\\Service\\RedisNotificationService.cs",
+              "RelativeToolTip": "Nastenka\\Services\\Service\\RedisNotificationService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:05:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Nastenka\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Nastenka\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:13:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\appsettings.json",
+              "RelativeDocumentMoniker": "Nastenka\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\appsettings.json",
+              "RelativeToolTip": "Nastenka\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T01:11:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRedisNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Services\\Interface\\IRedisNotificationService.cs",
+              "RelativeDocumentMoniker": "Nastenka\\Services\\Interface\\IRedisNotificationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Services\\Interface\\IRedisNotificationService.cs",
+              "RelativeToolTip": "Nastenka\\Services\\Interface\\IRedisNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:03:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Program.cs",
+              "RelativeDocumentMoniker": "Nastenka\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Program.cs",
+              "RelativeToolTip": "Nastenka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:09:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Nastenka\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Nastenka\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:52:58.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

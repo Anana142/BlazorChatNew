@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Nastenka.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nastenka.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\Nastenka\\Nastenka\\Nastenka\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nastenka.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nastenka.props",
+      "PackagePath": "build\\Nastenka.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nastenka.props",
+      "PackagePath": "buildMultiTargeting\\Nastenka.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nastenka.props",
+      "PackagePath": "buildTransitive\\Nastenka.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
